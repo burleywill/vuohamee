@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wieyeecuv.copywrongs.eu/sitemap.xml
